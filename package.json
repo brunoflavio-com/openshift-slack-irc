@@ -1,19 +1,20 @@
 {
-  "name": "OpenShift-Sample-App",
+  "name": "openshift-slack-irc",
   "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "description": "OpenShift Slack-irc bot, based on the OpenShift node.js cartridge",
   "keywords": [
     "OpenShift",
     "Node.js",
     "application",
-    "openshift"
+    "openshift",
+    "slack-irc",
+    "bot"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Bruno Flávio",
+    "url": "https://github.com/brunoflavio-com/openshift-slack-irc"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "https://github.com/brunoflavio-com/openshift-slack-irc",
   "repository": {
     "type": "git",
     "url": "https://github.com/openshift/origin-server"
